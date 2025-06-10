@@ -9,4 +9,4 @@ El programa desarrollado en Python, utiliza una función Bubble Sort y una funci
 Fue pensado como solución para buscar un espacio específico para la documentación de estudiantes (por ejemplo) en un archivero físico: Cuando querramos buscar en qué espacio está la documentación del estudiante "Juan", utilizamos este algoritmo que nos devolverá el índice en donde buscar la documentación.
 
 Video explicativo en Youtube:
-https://youtu.be/CDXLvfQ_lMY 
+https://youtu.be/WRTWaQGR890 
